@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+.vs/
+**/TestResults/
+**/dev-mail/
+*.user
+*.db
+*.db-*
